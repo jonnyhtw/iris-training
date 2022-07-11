@@ -5,4 +5,4 @@ x = np.arange(10)
 
 plt.plot(x,x**2)
 
-plt.show()
+plt.show()#my comment 
