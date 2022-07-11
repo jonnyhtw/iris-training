@@ -5,4 +5,4 @@ x = np.arange(10) # terrible error fixed by nedk
 
 plt.plot(x,x**2) # excellent plot
 
-plt.show()
+plt.show()#my comment 
